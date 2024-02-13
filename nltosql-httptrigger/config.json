@@ -1,11 +1,11 @@
 {
     "DEPLOYMENT_NAME":"gpt-35-turbo",
-    "OPENAI_API_BASE":"https://openai-testing-parthshiras.openai.azure.com",
+    "OPENAI_API_BASE":"",
     "OPENAI_API_VERSION":"2023-07-01-preview",
-    "OPENAI_API_KEY":"590d2ec5b7bc4e9aa0cc212ab7ad601f",
-    "SERVER": "dbsales.database.windows.net",
-    "DATABASE": "db-sales",
-    "USERNAME": "parthshiras",
-    "PASSWORD": "Password@123"
+    "OPENAI_API_KEY":"",
+    "SERVER": ".database.windows.net",
+    "DATABASE": "",
+    "USERNAME": "",
+    "PASSWORD": ""
   
 }
